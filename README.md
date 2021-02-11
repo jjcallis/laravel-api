@@ -1,6 +1,6 @@
 ## Info
 psr-12
-miniframe work to integrate with providers
+mini framework to integrate with providers
 
 
 !! WORK IN PROGRESS !!
